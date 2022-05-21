@@ -2,9 +2,9 @@
 AI 기술 자연어처리 전문가 양성 과정 3기 프로젝트   
 
 ## PDF files for Project Presentation   
-* [Project#1: Sentiment Classification](https://github.com/chohs1221/Goorm_Projects/blob/master/GroomProject1.pdf)  
-* [Project#2: Machine Reading Comprehension](https://github.com/chohs1221/Goorm_Projects/blob/master/GroomProject2.pdf)  
-* [Project#3: Neural Machine Translation (Korean, English Bidirectional Lyrics Translation)](https://github.com/chohs1221/Goorm_Projects/blob/master/GroomProject3.pdf)  
+* [Project#1: Sentiment Classification](https://github.com/chohs1221/Goorm_Projects/blob/master/GoormProject1.pdf)  
+* [Project#2: Machine Reading Comprehension](https://github.com/chohs1221/Goorm_Projects/blob/master/GoormProject2.pdf)  
+* [Project#3: Neural Machine Translation (Korean, English Bidirectional Lyrics Translation)](https://github.com/chohs1221/Goorm_Projects/blob/master/GoormProject3.pdf)  
 
 ## Repository Links for Goorm Projects
 * [Assignment & Quiz](https://github.com/chohs1221/GoormNLP)  
